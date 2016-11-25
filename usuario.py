@@ -11,3 +11,6 @@ class  Usuario:
   		print (resultado)
   		self.nombre = resultado["name"]
   		return resultado
+
+  arreglar
+  

@@ -11,3 +11,5 @@ respuesta = user.obtenInfo()
 
 print("Respuestaaaa")
 print(type(respuesta))
+
+arreglar
